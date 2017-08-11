@@ -7,6 +7,7 @@ public class Person {
     private String email;
     //add another variable
     private String comment;
+    private int id;
 
     public Person() {
     }
