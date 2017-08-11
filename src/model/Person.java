@@ -5,6 +5,8 @@ public class Person {
     private int age;
     //add new variable
     private String email;
+    //add another variable
+    private String comment;
 
     public Person() {
     }
