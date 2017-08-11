@@ -8,4 +8,8 @@ public class ServiceDaoImpl {
     }
 
 
+    public static void imprint(String request){
+        System.out.println("Requested: " + request);
+    }
+
 }
