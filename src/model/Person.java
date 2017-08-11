@@ -3,6 +3,8 @@ package model;
 public class Person {
     private String name;
     private int age;
+    //add new variable
+    private String email;
 
     public Person() {
     }
