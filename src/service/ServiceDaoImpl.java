@@ -2,6 +2,7 @@ package service;
 
 public class ServiceDaoImpl {
 
+    private int serviceId;
 
     public static void print(String str){
         System.out.println("Printed: " + str + "!");
