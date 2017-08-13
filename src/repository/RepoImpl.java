@@ -12,4 +12,10 @@ public class RepoImpl {
     public RepoImpl(List<Person> persons) {
         this.persons = persons;
     }
+
+    public static void method1(){
+        System.out.println("1111");
+    }
+    
+
 }
