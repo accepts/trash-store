@@ -3,6 +3,8 @@ package service;
 public class ServiceDaoImpl {
 
     private int serviceId;
+    
+    private long serviceNumber;
 
     public static void print(String str){
         System.out.println("Printed: " + str + "!");
