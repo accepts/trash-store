@@ -17,10 +17,4 @@ public class ServiceDaoImpl {
         System.out.println("1111");
     }
 
-    public static void dummy2(){
-        //i.m dummy method
-        System.out.println("DDDD-2222");
-    }
-
-
 }
