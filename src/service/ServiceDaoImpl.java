@@ -12,4 +12,9 @@ public class ServiceDaoImpl {
         System.out.println("Requested: " + request);
     }
 
+    public static void dummy(){
+        //i.m dummy method
+        System.out.println("1111");
+    }
+
 }
