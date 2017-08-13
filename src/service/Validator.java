@@ -1,7 +1,9 @@
 package service;
 
 public class Validator {
-
+    
+    private String message;
+    
     private int a;
 
     public void validate(String str){
