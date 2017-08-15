@@ -1,7 +1,8 @@
 package service;
 
 public class ServiceDaoImpl {
-
+    
+    private String deleteME;
     private int serviceId;
     
     private long serviceNumber;
